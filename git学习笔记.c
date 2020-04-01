@@ -24,11 +24,11 @@
 1、先新建仓库
 2、在本地文件夹内git init 初始化仓库
 3、git clone xxx(仓库url)
-4、git add xxxfile
-5、git commit -m 说明
-6、git push 
+4、git add xxxfile(需要进入仓库中执行)
+5、git commit -m 说明(需要进入仓库中执行)
+6、git push (需要进入仓库中执行)
 -------------------------------------------------------------
-删除远程仓库文件
+删除远程仓库文件(需要进入仓库中执行)
 1、git pull origin master
 2、git rm xxx
 3、git commit -m 说明
